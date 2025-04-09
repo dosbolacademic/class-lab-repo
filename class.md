@@ -1,6 +1,7 @@
 ## Class Information
 - Name: Dosbol Aliev  
 - Certification: GIT VERSION CONTROL
+- DONE THIS PROJECT
 
 ## Instructions
 Please replace the placeholders with your details:
